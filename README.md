@@ -24,7 +24,6 @@ Meu nome é Paulo Henrique de Barros e sou **backEnd** desde 2023, atualmente es
 
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
-![McDonald's](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white)
 
 
 > É mais fácil pedir perdão do que permissão.
