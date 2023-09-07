@@ -14,10 +14,15 @@ Meu nome é Paulo Henrique de Barros e sou **backEnd** desde 2023, atualmente es
 🚨: ## Hard Skills:     
 
 ![javascript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+
 ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=f7df1e)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
+
 ![McDonald's](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white)
 
 
