@@ -4,13 +4,15 @@
 
 Meu nome é Paulo Henrique de Barros e sou **backEnd** desde 2023, atualmente estudando na instituição [@cubosacademy](http://cubos.academy/)
 
-# 🌐: ## Para me encontrar: 
+# 🌐
+: ## Para me encontrar: 
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)    ](https://www.linkedin.com/in/paulo-barros-3bb732270/DF0174) 
 [![Gmail](https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barrosp3335@gmail.com)
 
 
-# 🚨: ## Hard Skills:     
+# 🚨
+: ## Hard Skills:     
 
 ![javascript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 
